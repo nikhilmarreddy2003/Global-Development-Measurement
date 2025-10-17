@@ -30,3 +30,7 @@ This repository contains two main files:
 | **Machine Learning / Clustering** | scikit-learn |
 | **Deployment / Web App** | Streamlit |
 | **Others** | joblib, os, warnings, etc. (as required) |
+
+## 🌐 Live Demo
+Try the live version here 👉 [Streamlit App](https://nikhilmarreddy2003-global-development-measurement.streamlit.app)
+
