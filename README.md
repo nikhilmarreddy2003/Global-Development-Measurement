@@ -11,3 +11,22 @@ This repository contains two main files:
 4. Run the deployment app using:
    ```bash
    streamlit run cluster_app.py
+
+## 🎯 Project Objectives
+
+1. Perform **Exploratory Data Analysis (EDA)** to understand the dataset.  
+2. Apply and compare multiple **clustering algorithms**.  
+3. Evaluate and profile clusters based on dataset features.  
+4. Develop a **Streamlit-based interactive deployment** for real-time clustering and visualization.
+
+---
+
+## ⚙️ Technologies & Libraries Used
+| Category | Tools / Libraries |
+|-----------|-------------------|
+| **Programming Language** | Python 3.x |
+| **Data Analysis** | pandas, numpy |
+| **Visualization** | matplotlib, seaborn |
+| **Machine Learning / Clustering** | scikit-learn |
+| **Deployment / Web App** | Streamlit |
+| **Others** | joblib, os, warnings, etc. (as required) |
