@@ -32,5 +32,6 @@ This repository contains two main files:
 | **Others** | joblib, os, warnings, etc. (as required) |
 
 ## 🌐 Live Demo
-Try the live version here 👉 [Streamlit App](https://nikhilmarreddy2003-global-development-measurement.streamlit.app)
+Try the live version here 👉https://global-development-measurement-fbqppgaamy9bdj4dkxnd8q.streamlit.app/
+
 
